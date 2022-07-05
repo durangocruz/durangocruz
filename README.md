@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @durangocruz
-- 👀 I’m interested in programming languages to get my first job in tech
-- 🌱 I’m currently learning HTML and Javascript
+- 👀 I’m interested in programming languages to improve my skills
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me -> @durangocruz on all social networks
 
